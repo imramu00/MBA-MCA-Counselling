@@ -1,5 +1,4 @@
 # MBA-MCA-Counselling
-
 Online Choice Filling , Counselling and Allotment Module
 
 There are 2 SQL files in DB folder.
